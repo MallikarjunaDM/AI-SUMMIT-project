@@ -1,0 +1,7 @@
+{
+  "name": "VoxGuard: AI Voice Detection Pro",
+  "description": "A high-performance platform for detecting AI-generated voices across multiple languages including Tamil, English, Hindi, Malayalam, and Telugu, featuring real-time analysis, transcription, and TTS.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
